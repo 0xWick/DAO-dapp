@@ -21,10 +21,11 @@ Vercel
 
 ## Requirements
 
-* There should be a max of 10,000 CD tokens.
-* Every Crypto Dev NFT holder should get 10 tokens for free but they would have to pay the gas fees.
-* The price of one CD at the time of ICO should be 0.001 ether
-* There should be a website which users can visit for the ICO.
+* Anyone with a CryptoDevs NFT can create a proposal to purchase a different NFT from an NFT marketplace
+* Everyone with a CryptoDevs NFT can vote for or against the active proposals
+* Each NFT counts as one vote for each proposal
+* Voter cannot vote multiple times on the same proposal with the same NFT
+* If majority of the voters vote for the proposal by the deadline, the NFT purchase is automatically executed
 
 Let's start building 🚀
 
